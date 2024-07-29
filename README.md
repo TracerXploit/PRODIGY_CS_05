@@ -1,5 +1,5 @@
-"""
 # Network Packet Analyzer
+
 ![Project Icon](icon.png)
 
 A Python-based network packet analyzer tool that captures and analyzes network packets.
